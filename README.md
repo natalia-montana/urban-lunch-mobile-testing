@@ -13,7 +13,8 @@ Backend-integrated mobile app testing and environment configuration for the Urba
 
 ### 📊 Performance & Defect Analytics
 * **Execution Metrics:** 31 Test Cases Audited (26 Pass ✅ / 5 Fail ❌)
-* **Core Defect Logs:** * 💵 **Financial Calculation:** Discovered checkout logic failure omitting delivery fees from the final balance calculation.
+* **Core Defect Logs:**
+  * 💵 **Financial Calculation:** Discovered checkout logic failure omitting delivery fees from the final balance calculation.
   * 🎨 **UI Interface Integrity:** Identified overlapping text fields on dish/brand layouts, violating visual requirements.
   * ⏳ **Navigation Friction:** Uncovered a 6-second UI freeze post-confirmation lacking any loading indicators or UX feedback.
 
